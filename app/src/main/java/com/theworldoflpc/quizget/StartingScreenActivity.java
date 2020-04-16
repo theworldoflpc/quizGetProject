@@ -11,5 +11,6 @@ public class StartingScreenActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // test
+        // branch test
     }
 }
